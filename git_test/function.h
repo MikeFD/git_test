@@ -37,3 +37,5 @@ int triple_add(int a, int b, int c);
 当权限在fan同学手中时，由liz同学完成该函数
 */
 int triple_minus(int a, int b, int c);
+
+void func();
