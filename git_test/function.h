@@ -8,7 +8,10 @@ using namespace std;
 并把这个函数提交到自己的Github分支上
 请将函数在function.cpp中完成
 */
-int add(int a, int b);
+int add(int a, int b)
+{
+	return a + b;
+}
 
 /*
 减法函数
