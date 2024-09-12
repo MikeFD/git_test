@@ -29,7 +29,12 @@ int triple_minus(int a, int b, int c)
 void func()
 {
 	cout << "supervan is so handsome" << endl;
+  
+	cout << "������" << endl;
+	cout << "������" << endl;
+  
 	cout << "ÄãºÃÄãºÃ" << endl;
+  
 }
 
 
