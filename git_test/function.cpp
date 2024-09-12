@@ -11,11 +11,38 @@ int add(int a, int b)
 	return a + b;
 }
 
+int times(int a, int b) {
+	return a * b;
+
+int triple_add(int a, int b, int c)
+{
+	return a + b + c;
+}
+
+
+int triple_minus(int a, int b, int c)
+{
+	return a - b - c;
+}
 
 
 void func()
 {
 	cout << "supervan is so handsome" << endl;
-	cout << "ÄãºÃÄãºÃ" << endl;
-	cout << "ÄãºÃÄãºÃ" << endl;
+  
+	cout << "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" << endl;
+	cout << "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" << endl;
+  
+	cout << "Ã„Ã£ÂºÃƒÃ„Ã£ÂºÃƒ" << endl;
+  
 }
+
+
+void jsw(){
+
+	cout<<"what is an apple.\n";
+
+	cout<<"summer time.\n";
+
+}
+
