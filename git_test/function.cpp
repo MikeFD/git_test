@@ -30,6 +30,6 @@ void func()
 
 
 void jsw(){
-	cout<<"this is an apple.\n";
+	cout<<"what is an apple.\n";
 }
 
