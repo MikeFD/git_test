@@ -6,10 +6,13 @@ int minus(int a, int b) {
 	return ans;
 }
 
-int func(int a, int b)
+int add(int a, int b)
 {
 	return a + b;
 }
+
+int times(int a, int b) {
+	return a * b;
 
 int triple_add(int a, int b, int c)
 {
@@ -26,10 +29,15 @@ int triple_minus(int a, int b, int c)
 void func()
 {
 	cout << "supervan is so handsome" << endl;
+	cout << "ÄãºÃÄãºÃ" << endl;
 }
 
 
 void jsw(){
+
 	cout<<"what is an apple.\n";
+
+	cout<<"summer time.\n";
+
 }
 
