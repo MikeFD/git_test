@@ -17,4 +17,5 @@ void func()
 {
 	cout << "supervan is so handsome" << endl;
 	cout << "你好你好" << endl;
+	cout << "你好你好" << endl;
 }
