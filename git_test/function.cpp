@@ -34,6 +34,6 @@ void func()
 
 
 void jsw(){
-	cout<<"this is an apple.\n";
+	cout<<"summer time.\n";
 }
 
