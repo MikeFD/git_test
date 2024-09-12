@@ -27,3 +27,9 @@ void func()
 {
 	cout << "supervan is so handsome" << endl;
 }
+
+
+void jsw(){
+	cout<<"this is an apple.\n";
+}
+
