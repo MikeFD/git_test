@@ -6,7 +6,7 @@ int minus(int a, int b) {
 	return ans;
 }
 
-int func(int a, int b)
+int add(int a, int b)
 {
 	return a + b;
 }
@@ -29,6 +29,7 @@ int triple_minus(int a, int b, int c)
 void func()
 {
 	cout << "supervan is so handsome" << endl;
+	cout << "ÄãºÃÄãºÃ" << endl;
 }
 
 
