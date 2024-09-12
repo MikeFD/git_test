@@ -29,11 +29,15 @@ int triple_minus(int a, int b, int c)
 void func()
 {
 	cout << "supervan is so handsome" << endl;
-	cout << "ÄãºÃÄãºÃ" << endl;
+	cout << "Ã„Ã£ÂºÃƒÃ„Ã£ÂºÃƒ" << endl;
 }
 
 
 void jsw(){
+
+	cout<<"what is an apple.\n";
+
 	cout<<"summer time.\n";
+
 }
 
