@@ -6,7 +6,7 @@ int minus(int a, int b) {
 	return ans;
 }
 
-int func(int a, int b)
+int add(int a, int b)
 {
 	return a + b;
 }
@@ -16,4 +16,5 @@ int func(int a, int b)
 void func()
 {
 	cout << "supervan is so handsome" << endl;
+	cout << "ÄãºÃÄãºÃ" << endl;
 }
